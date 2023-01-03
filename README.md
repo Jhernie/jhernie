@@ -1,4 +1,4 @@
-## Aloha mai kākou 🌺 ✌🏽
+### Aloha mai kākou 🌺 ✌🏽
 
 You've reached Jhernie's technical playground. Here you will find trials, explorations, and a few recent projects that I'm proud of. If you're interested in working with me, please reach out!
 
