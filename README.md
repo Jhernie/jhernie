@@ -21,10 +21,10 @@ You've reached Jhernie's technical playground. Here you will find trials, explor
 
 ## 👯 I’m looking to collaborate on ...
 * 💻 Backend projects 
-* ✈️ Flight data
-* ✏️ Education data
-* 💰 Compensation and Workforce data
-* ⌚️ Projects relating to Personal Improvement and Biometric data
+* ✈️ Flight data projects
+* ✏️ Education data projects
+* 💰 Compensation and Workforce data projects
+* ⌚️ Projects relating to Personal Improvement and Biometric data projects
 * 🌋 Indigenous data and research
 
 ## 📫 How to reach me: ...
