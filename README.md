@@ -9,8 +9,8 @@ You've reached Jhernie's technical playground. Here you will find trials, explor
 
 ## 👯 I’m looking to collaborate on ...
 * Backend projects
-* Projects relating to Flight data
-* Projects relating to Education data
+* Flight data
+* Education data
 * Compensation and Workforce data
 * Projects relating to Personal Improvement and Biometric data
 
