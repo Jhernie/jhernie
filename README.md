@@ -6,6 +6,15 @@ You've reached Jhernie's technical playground. Here you will find trials, explor
   <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="300"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/jhernie-evangelista/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/jhernie/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+
 
 ## 👯 I’m looking to collaborate on ...
 * Backend projects
@@ -17,9 +26,16 @@ You've reached Jhernie's technical playground. Here you will find trials, explor
 
 ## 📫 How to reach me: ...
 * evangelista.jhernie@gmail.com
-* https://www.linkedin.com/in/jhernie-evangelista/
-* https://www.instagram.com/jhernie/
-
+* <div id="badges">
+    <a href="https://www.linkedin.com/in/jhernie-evangelista/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+* <div id="badges">
+    <a href="https://www.instagram.com/jhernie/">
+      <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+     </a>
+  </div>
 
 
 
