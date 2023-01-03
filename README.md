@@ -15,6 +15,9 @@ You've reached Jhernie's technical playground. Here you will find trials, explor
   </a>
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=jhernie&style=flat-square&color=blue" alt=""/>
+</div>
 
 ## 👯 I’m looking to collaborate on ...
 * Backend projects
