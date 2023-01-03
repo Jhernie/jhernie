@@ -20,12 +20,12 @@ You've reached Jhernie's technical playground. Here you will find trials, explor
 </div>
 
 ## 👯 I’m looking to collaborate on ...
-* Backend projects
-* Flight data
-* Education data
-* Compensation and Workforce data
-* Projects relating to Personal Improvement and Biometric data
-* Indigenous data and research
+* 💻 Backend projects 
+* ✈️ Flight data
+* ✏️ Education data
+* 💰 Compensation and Workforce data
+* ⌚️ Projects relating to Personal Improvement and Biometric data
+* 🌋 Indigenous data and research
 
 ## 📫 How to reach me: ...
 * evangelista.jhernie@gmail.com
