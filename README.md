@@ -24,7 +24,7 @@ You've reached Jhernie's technical playground. Here you will find tribulations, 
 * ✈️ Flight data projects
 * ✏️ Education data projects
 * 💰 Compensation and Workforce data projects
-* ⌚️ Projects relating to Personal Improvement and Biometric data projects
+* ⌚️ Personal Improvement and Biometric data projects
 * 🌋 Indigenous data and research
 
 ## 📫 How to reach me: ...
